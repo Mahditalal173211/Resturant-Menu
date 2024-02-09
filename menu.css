@@ -1,0 +1,52 @@
+body{
+  background: #333333;
+}
+.headercont{
+    background: #cccccc;
+    border-radius: 20px;
+}
+.headermenu{
+    display: flex;
+    gap: 10px;
+}
+li{
+    list-style: none;
+}
+.headerBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+span{
+    color: red;
+}
+.logo{
+    border: 50%;
+    width: 120px;
+    height: 100px;
+}
+.bestSeller{
+    background: #D8D8D8;
+    border-radius: 20px;
+    margin-top: 18px;
+}
+.prodcuts{
+    border: 5px solid #333333;
+    border-radius: 20px;
+
+    background: #D8D8D8;
+}
+.card>img{
+    border-radius: 5px;
+    margin-top: 3px;
+}
+.card-body.card-footer{
+
+    background: #9ab9b9;
+}
+
+
+.facebook-icon{
+    width: 32px;
+    height: 32px;
+}
