@@ -50,3 +50,10 @@ span{
     width: 32px;
     height: 32px;
 }
+a:hover{
+    
+    opacity: 0.4;
+}
+a{text-decoration: none;
+color: #333333;
+}
